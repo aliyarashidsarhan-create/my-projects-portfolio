@@ -20,5 +20,5 @@ Welcome to my project portfolio! This repository showcases the projects I've wor
 - :white_check_mark: Git & GitHub fundamentals
 - :white_check_mark: Software Development Life Cycle
 - :white_check_mark: Web Development basics
-- :arrows_counterclockwise: Currently learning: [web develobment]
+- :arrows_counterclockwise: Currently learning:web develobment
 
